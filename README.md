@@ -20,10 +20,10 @@ Desenvolver um sistema de descriptografia capaz de identificar e decodificar men
 O projeto tem como foco não apenas a implementação do algoritmo, mas também a execução de um processo estruturado de desenvolvimento, incluindo planejamento, controle de qualidade, versionamento e validação do produto.
 
 **O sistema deve garantir:**
-Correta descriptografia de mensagens
-Organização e padronização do código
-Aplicação de práticas de qualidade
-Simulação de um ambiente profissional de desenvolvimento
+* Correta descriptografia de mensagens
+* Organização e padronização do código
+* Aplicação de práticas de qualidade
+* Simulação de um ambiente profissional de desenvolvimento
 
 ---
 
@@ -31,74 +31,74 @@ Simulação de um ambiente profissional de desenvolvimento
 
 ### ✔️ Funcionalidades Incluídas
 O sistema permitirá:
-Entrada de mensagens criptografadas
-Entrada da chave de deslocamento
-Processamento da descriptografia
-Exibição do resultado em texto claro
+* Entrada de mensagens criptografadas
+* Entrada da chave de deslocamento
+* Processamento da descriptografia
+* Exibição do resultado em texto claro
 
 **✅ Inclui:**
-Descriptografia utilizando a Cifra de César
-Entrada via terminal
-Tratamento de letras maiúsculas e minúsculas
-Preservação de caracteres especiais
-Validação básica de entrada
-Código modular
-Testes manuais
-Uso de Git
-Revisão de código (peer review)
-Uso de Kanban
-Documentação do projeto
+* Descriptografia utilizando a Cifra de César
+* Entrada via terminal
+* Tratamento de letras maiúsculas e minúsculas
+* Preservação de caracteres especiais
+* Validação básica de entrada
+* Código modular
+* Testes manuais
+* Uso de Git
+* Revisão de código (peer review)
+* Uso de Kanban
+* Documentação do projeto
 
 **❌ Não Inclui:**
-Outros algoritmos (Base64, RSA, AES etc.)
-Criptografia
-Quebra automática da cifra
-Interface gráfica avançada
-Banco de dados
-APIs externas
-Execução em nuvem
-Inteligência artificial
-Testes automatizados avançados
+* Outros algoritmos (Base64, RSA, AES etc.)
+* Criptografia
+* Quebra automática da cifra
+* Interface gráfica avançada
+*  Banco de dados
+*  APIs externas
+*  Execução em nuvem
+*  Inteligência artificial
+*  Testes automatizados avançados
 
 ---
 
 ## ⚙️ 3. Requisitos Funcionais
-**RF01:** Receber mensagem criptografada
-**RF02:** Receber chave de deslocamento
-**RF03:** Descriptografar corretamente
-**RF04:** Preservar caracteres especiais
-**RF05:** Manter maiúsculas e minúsculas
-**RF06:** Exibir resultado corretamente
-**RF07:** Validar entradas inválidas
+* **RF01:** Receber mensagem criptografada
+* **RF02:** Receber chave de deslocamento
+* **RF03:** Descriptografar corretamente
+* **RF04:** Preservar caracteres especiais
+* **RF05:** Manter maiúsculas e minúsculas
+* **RF06:** Exibir resultado corretamente
+* **RF07:** Validar entradas inválidas
 
 ---
 
 ## ⚙️ 4. Requisitos Não Funcionais
-**RNF01:** Tempo de resposta até 2 segundos
-**RNF02:** Código legível e documentado
-**RNF03:** Uso de Git
-**RNF04:** Padronização de código
-**RNF05:** Facilidade de manutenção
-**RNF06:** Revisão de código obrigatória
-**RNF07:** Baixo acoplamento e alta coesão
+* **RNF01:** Tempo de resposta até 2 segundos
+* **RNF02:** Código legível e documentado
+* **RNF03:** Uso de Git
+* **RNF04:** Padronização de código
+* **RNF05:** Facilidade de manutenção
+* **RNF06:** Revisão de código obrigatória
+* **RNF07:** Baixo acoplamento e alta coesão
 
 ---
 
 ## 🔄 5. Processo de Desenvolvimento
 
-**Planejamento:** Definição do escopo, Organização no Kanban e Definição de papéis.
-**Implementação:** Desenvolvimento da lógica, Código modular e Comentários explicativos.
-**Qualidade (QA):** Testes funcionais, Testes de casos extremos e Revisão de código.
-**Correções:** Ajustes após testes e Refatoração.
-**Gerência de Configuração:** Uso de Git, Commits organizados e Controle de versões.
-**Testes Finais:** Validação completa.
+* **Planejamento:** Definição do escopo, Organização no Kanban e Definição de papéis.
+* **Implementação:** Desenvolvimento da lógica, Código modular e Comentários explicativos.
+* **Qualidade (QA):** Testes funcionais, Testes de casos extremos e Revisão de código.
+* **Correções:** Ajustes após testes e Refatoração.
+* **Gerência de Configuração:** Uso de Git, Commits organizados e Controle de versões.
+* **Testes Finais:** Validação completa.
 
 ---
 
 ## ⏱️ 6. Cronograma
-**Fim da arquitetura:** 10/04
-**Fim da codificação:** 15/04
-**Fim da revisão de qualidade:** 17/04
+* **Fim da arquitetura:** 10/04
+* **Fim da codificação:** 15/04
+* **Fim da revisão de qualidade:** 17/04
 
 ---
 
@@ -133,14 +133,14 @@ Testes automatizados avançados
 ---
 
 ## 🧪 8. Enigma de Teste
-**Entrada:** Krod, pxqgr!
-**Chave:** 3
-**Saída esperada:** Olá, mundo!
-**Explicação:** Deslocamento de 3 posições para trás no alfabeto.
+* **Entrada:** Krod, pxqgr!
+* **Chave:** 3
+* **Saída esperada:** Olá, mundo!
+* **Explicação:** Deslocamento de 3 posições para trás no alfabeto.
 
 **Outros exemplos:**
-Khoor → Hello
-Dwwdfn → Attack
+* Khoor → Hello
+* Dwwdfn → Attack
 
 ---
 
