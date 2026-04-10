@@ -150,3 +150,7 @@ O projeto “O Decifrador” possibilitou a aplicação prática de conceitos de
 ## 🖼️ Imagem Fluxograma
 
 <img width="304" height="1024" alt="image" src="https://github.com/user-attachments/assets/59e11676-9aeb-4a0f-ba32-15aa3f35e466" />
+
+## 🖼️ Kanban
+
+https://trello.com/invite/b/69d66808a257739f248a44f2/ATTIb8a578fafb67332c09c9aea07433bb23A9D4FA61/kambam
